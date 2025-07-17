@@ -19,6 +19,6 @@ En Databricks Free Edition
 📌 ¿Y luego?
 
 Una vez creada la cuenta, podrás:
-	•	Usar Google Classroom como estudiante o profesor.
-	•	Iniciar sesión con tu correo Office 365 en https://classroom.google.com.
-	•	Unirte a clases con código o por invitación.
+- Usar Google Classroom como estudiante o profesor.
+- Iniciar sesión con tu correo Office 365 en https://classroom.google.com.
+- Unirte a clases con código o por invitación.
