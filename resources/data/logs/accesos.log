@@ -1,0 +1,5 @@
+[2023-11-01 08:15:23] INFO - Usuario: Juan - Acción: login - IP: 192.168.1.10
+[2023-11-01 08:16:12] INFO - Usuario: Ana - Acción: logout - IP: 192.168.1.12
+[2023-11-01 08:18:47] INFO - Usuario: Beto - Acción: login - IP: 192.168.1.14
+[2023-11-01 08:20:31] INFO - Usuario: Camila - Acción: login - IP: 192.168.1.18
+[2023-11-01 08:22:09] INFO - Usuario: David - Acción: logout - IP: 192.168.1.11
