@@ -1,0 +1,101 @@
+id_cliente;nombre;apellido;email;telefono;direccion;fecha_registro
+1;Mamen;Carrillo;albajimena@example.com;+34953330236;Cuesta Ana Cañas 73 Cantabria, 42815;2023-11-24
+2;Ligia;Benavides;mrevilla@example.com;+34 947280956;Cañada Néstor Molins 24 Piso 5  Cádiz, 43412;2020-08-25
+3;Florentina;Roura;yortiz@example.com;+34 848 036 337;Glorieta Miguel Gibert 85 Puerta 2  Huelva, 43029;2025-02-28
+4;Marcela;Moreno;lorenzalara@example.org;+34825525333;Camino de Vilma Moreno 8 Apt. 33  Guadalajara, 50899;2025-02-25
+5;Pili;Nebot;roperogoyo@example.net;+34817 35 69 18;Camino Brígida Calvo 2 Apt. 30  Las Palmas, 42694;2022-09-14
+6;Juan Pablo;Maestre;marinpepito@example.com;+34 902103478;Calle de Eugenio Soria 35 Puerta 2  La Coruña, 29924;2025-01-26
+7;Manola;Páez;bagullo@example.com;+34945691154;Vial Juan Pablo Talavera 34 Álava, 14737;2025-02-06
+8;Jaime;Camps;teresatorrecilla@example.net;+34 873 77 19 39;Plaza Priscila Vizcaíno 61 Piso 8  Badajoz, 13393;2024-04-13
+9;Conrado;Mosquera;qblanes@example.com;+34 946 67 41 47;Alameda de Socorro Arregui 51 Puerta 3  Vizcaya, 48601;2024-11-15
+10;René;Barros;damianpulido@example.org;+34 983 82 14 71;Urbanización de Evelia Agustín 4 Málaga, 35911;2020-11-14
+11;Olga;Gomez;figueroamarciano@example.net;+34948 911 673;Rambla de Julián Garzón 23 Guipúzcoa, 12433;2025-05-04
+12;Nando;Sierra;natanaelrivero@example.org;+34982 528 706;Vial de Yaiza Cervantes 20 La Coruña, 05534;2023-02-18
+13;Bernardino;Grande;pascualsoria@example.net;+34 974 83 40 97;Glorieta de Pánfilo Gárate 225 Piso 8  Lleida, 28408;2021-06-05
+14;Baldomero;Pedrosa;cadenasmohamed@example.net;+34749 698 822;Via Fito Niño 47 Jaén, 20416;2025-04-07
+15;Iker;Toro;anastasioperales@example.org;+34945388703;Alameda Iván Peláez 95 Apt. 25  Castellón, 33904;2025-06-08
+16;Marisa;Márquez;gargallociro@example.net;+34 971 205 309;Alameda Luís Montero 81 Puerta 0  Madrid, 32665;2021-02-20
+17;Lidia;Cerdá;yrodriguez@example.org;+34874 33 45 21;Rambla de Roberta Tejero 303 Ávila, 43209;2022-09-07
+18;Aránzazu;Cases;vararicarda@example.net;+34879 273 074;Alameda de Modesto Elorza 4 Puerta 4  Salamanca, 44661;2020-09-08
+19;Macaria;Álvarez;calixtalastra@example.org;+34973 221 240;Paseo Hector Aragonés 85 Apt. 66  Girona, 36319;2023-09-10
+20;Reyna;Carmona;emmaflores@example.com;+34 972045867;Alameda de Nicodemo Becerra 75 Córdoba, 42929;2021-03-07
+21;Toribio;Prado;nildacid@example.org;+34736501071;Pasadizo Isaac Canals 13 Cáceres, 28599;2023-09-13
+22;Emelina;Fernandez;espanoladelardo@example.com;+34924 334 935;Cañada Iris Uriarte 62 Guipúzcoa, 15356;2021-02-20
+23;Nydia;Mas;tejerojuan-luis@example.com;+34 980 159 277;Callejón de Rufino Araujo 276 Puerta 4  Valencia, 29769;2021-10-10
+24;Ainara;Cortés;arroyofabiana@example.org;+34973252865;Urbanización Régulo Carrillo 137 Piso 4  Cantabria, 14917;2024-02-17
+25;Teófilo;Marti;mateojuan@example.net;+34 921 856 494;Rambla de Américo Peña 2 Apt. 41  Almería, 02134;2023-02-07
+26;Trinidad;Olmedo;alcarazxiomara@example.net;+34925 027 873;Ronda de Blanca Colom 5 León, 11232;2023-04-02
+27;Ruth;Castell;nicoiniguez@example.org;+34 803345324;Pasaje Nilda Barrio 4 Palencia, 26248;2022-08-08
+28;Luisina;Albero;qcepeda@example.com;+34 733 312 376;Calle de Encarnación Adadia 15 León, 46282;2025-02-13
+29;Nilo;Codina;lucio40@example.com;+34 888559325;Alameda Isidora Escalona 81 Palencia, 27326;2024-12-17
+30;Dolores;Sanchez;griselda85@example.net;+34884690162;Alameda Francisco Javier Colom 4 Apt. 30  Castellón, 32432;2021-10-15
+31;Mohamed;Cid;albino73@example.net;+34 984852341;Callejón Tomasa Madrid 29 Apt. 82  Almería, 08001;2022-07-29
+32;Paco;Toledo;guiomar02@example.net;+34 812 273 847;Camino de Evelia Salvador 843 Piso 4  Badajoz, 29657;2022-09-30
+33;Eufemia;Pizarro;rosaura08@example.net;+34 974013700;Via Segismundo Cabeza 704 Puerta 4  Sevilla, 32203;2024-05-15
+34;Ana Belén;Bonet;yesica46@example.com;+34842 49 20 02;C. Hermenegildo Enríquez 334 Almería, 30080;2025-02-13
+35;Dalila;Saavedra;chusros@example.net;+34 900 13 11 80;Vial Narcisa Ferrer 50 Puerta 5  Granada, 17297;2023-01-11
+36;Eulalia;Anglada;nmarquez@example.org;+34 944 784 356;Urbanización Felix Hidalgo 3 Guipúzcoa, 30180;2021-01-31
+37;Maximino;Teruel;badadia@example.net;+34 869903893;Pasadizo de Íñigo Chaves 81 Melilla, 04259;2023-07-22
+38;Efraín;Girón;oriana68@example.com;+34 980 456 633;Urbanización de Chema Carranza 138 Puerta 6  Segovia, 32625;2021-06-14
+39;Rosaura;Riera;roldanjennifer@example.net;+34876 903 267;Alameda Felipe Ferrer 8 Cantabria, 11635;2023-05-05
+40;Joel;Pi;soliselpidio@example.org;+34 823 139 025;Alameda Francisca Sacristán 1 Piso 6  Sevilla, 24258;2023-04-30
+41;Natalia;Prieto;florenciacapdevila@example.com;+34 743 251 517;Cañada Ceferino Núñez 341 Jaén, 22342;2024-02-24
+42;Maricela;Borrás;salache@example.com;+34833 767 141;Pasaje de Nerea Bru 92 Puerta 1  Valencia, 32191;2023-10-09
+43;Dora;Machado;hortensiaperez@example.com;+34971040750;Via Regina Rivas 312 Puerta 0  Sevilla, 44172;2023-12-23
+44;Leonor;Blasco;remigiogalvan@example.com;+34886 09 13 84;Pasadizo Leocadia Lucas 4 Apt. 03  Guipúzcoa, 47372;2022-04-23
+45;Godofredo;Moya;rogelioporcel@example.org;+34 800 16 98 30;Via Amor Bou 89 Piso 5  Cáceres, 30963;2022-03-05
+46;Ulises;Soriano;valeriachico@example.net;+34 886 13 68 50;Via Florencia Vidal 199 Ceuta, 30076;2023-01-01
+47;Ani;Palma;ocorominas@example.net;+34901890490;Alameda de Marcelo Balaguer 75 Puerta 7  Sevilla, 24271;2021-11-12
+48;Rosa María;Pardo;gilbertoaragones@example.com;+34 925 248 619;Alameda de Nerea Ibarra 29 Apt. 20  Alicante, 27430;2022-06-17
+49;Simón;Benavent;roldanrufina@example.com;+34 952 825 717;Ronda Albano Castillo 55 Apt. 37  Asturias, 14900;2023-11-05
+50;Esteban;Quintero;torreheriberto@example.net;+34941539105;Callejón Javi Real 51 Lleida, 34859;2022-06-26
+51;José Ángel;Calvo;tudelanicolasa@example.net;+34884210477;Camino de José Ángel Huertas 822 Apt. 68  Palencia, 36491;2021-04-22
+52;Maximiliano;Acedo;moisesroman@example.net;+34800 970 922;Camino Joaquina Simó 26 Pontevedra, 24390;2023-10-04
+53;Elodia;Camacho;yperera@example.org;+34 875 64 66 74;Alameda de Venceslás Aparicio 30 Apt. 77  Granada, 47037;2020-11-30
+54;Daniela;Gil;quinteroinocencio@example.com;+34847 54 26 83;Via de Benito Borrás 973 Murcia, 51115;2024-05-24
+55;Victoria;Lluch;tere61@example.com;+34973755952;Pasaje de Lola Barceló 2 Valencia, 11584;2022-10-06
+56;Emilio;Novoa;carmelitagallego@example.org;+34822 63 27 97;Avenida de Martín Rey 42 Segovia, 42195;2024-07-08
+57;José María;Abella;qfiguerola@example.org;+34 748 02 33 97;Avenida Wilfredo Dominguez 3 Apt. 19  Huelva, 12268;2023-01-08
+58;Cintia;Tello;morellisaac@example.net;+34921 634 404;Callejón de Gerónimo Lerma 320 Madrid, 24512;2021-04-11
+59;Marianela;Mur;rinconchema@example.net;+34 927826870;Acceso de Luz Atienza 88 Piso 0  Pontevedra, 03365;2022-10-27
+60;María Jesús;Carballo;sbarreda@example.net;+34877 84 07 43;Avenida Amparo Corral 691 Lugo, 27243;2021-03-24
+61;Alfredo;Borrás;angladaepifanio@example.com;+34945 084 850;Acceso Vicente Chamorro 84 Puerta 3  Sevilla, 42593;2023-01-26
+62;Lupita;Salmerón;emma95@example.com;+34945151772;Ronda de Josué Girón 6 Puerta 9  Ourense, 33821;2022-02-23
+63;Maite;Escamilla;roblesmaxima@example.com;+34715 748 480;Avenida de Dorita Navas 625 Piso 7  Cáceres, 27266;2022-02-03
+64;Humberto;Baños;ana-sofiatorralba@example.org;+34848333706;Pasaje Teresita Benavides 88 Badajoz, 20399;2022-12-14
+65;Segismundo;Quintanilla;lara71@example.net;+34979434400;Cañada Azucena Otero 35 Piso 2  Badajoz, 44996;2022-04-21
+66;Juan Carlos;Luz;leyre71@example.net;+34 846 571 937;Avenida Máxima Hernandez 5 Puerta 6  Huesca, 17752;2022-12-23
+67;Martín;Aragón;felixbatalla@example.net;+34982 88 20 12;Calle Nacio Polo 9 Vizcaya, 16243;2022-08-15
+68;Dominga;Zamora;espinosasara@example.com;+34 986 639 512;Rambla de Lupita Salazar 79 Puerta 2  La Rioja, 36167;2022-07-31
+69;Quirino;Larrea;hortensia41@example.org;+34 946 73 87 95;Glorieta de Sancho Jiménez 77 Álava, 31564;2021-05-05
+70;Vilma;Acero;marcelino83@example.net;+34884 184 094;C. de Rómulo Pera 925 Apt. 84  Córdoba, 21614;2023-07-11
+71;Fernanda;Contreras;calista78@example.com;+34 926 88 45 93;Callejón de Juanito Cuervo 67 Puerta 3  Ceuta, 17399;2021-02-23
+72;Brunilda;Zaragoza;gloriasolana@example.org;+34884 31 76 37;Calle Rosa Castelló 29 Toledo, 35318;2023-03-18
+73;Patricio;Ferrer;vilma90@example.com;+34 823 077 379;C. de Renata Herranz 91 Córdoba, 23209;2023-11-02
+74;Saturnina;Quevedo;alexandrapedrosa@example.net;+34984 91 00 90;Ronda de Débora Daza 85 Palencia, 35947;2022-08-02
+75;Adora;Durán;nicolasacedo@example.com;+34843 34 04 45;Plaza de Abril Trillo 23 Apt. 98  Valladolid, 38441;2024-01-18
+76;Amancio;Vélez;gillilia@example.org;+34 849569525;Acceso de Pía Garrido 4 Apt. 11  Murcia, 47594;2020-10-30
+77;Jovita;Pardo;zrosa@example.net;+34 871934183;Avenida Federico Pablo 8 Baleares, 33510;2021-10-02
+78;Roberta;Plana;menendezagueda@example.net;+34 986 703 343;Callejón Clemente Jordán 31 Piso 7  Zaragoza, 33240;2021-06-17
+79;Isaura;Cobos;noemi76@example.org;+34982303524;Cañada Rosalía Jaén 6 Zamora, 43865;2023-08-07
+80;Modesta;Galán;talaveramiguel-angel@example.net;+34876 965 819;Cuesta Ildefonso Zorrilla 57 Lugo, 17932;2023-02-05
+81;Edelmiro;Batlle;victor21@example.org;+34 927631952;Vial de Elena Cantón 6 Puerta 3  Teruel, 50642;2025-01-10
+82;Emilio;Coloma;mbernad@example.org;+34 844843963;Plaza Amaya Niño 52 Málaga, 41701;2021-08-19
+83;Venceslás;Gallardo;regulovalls@example.com;+34961909064;Vial de Andrés Grande 4 Segovia, 50089;2024-09-28
+84;Yésica;Pol;sobrinoamalia@example.com;+34800 086 070;Pasadizo de Ema Corral 510 Granada, 22162;2022-06-17
+85;Curro;Noriega;loreto76@example.net;+34 874 620 802;Pasaje de José Antonio Murcia 35 Apt. 56  Valencia, 26121;2021-11-13
+86;Celestino;Guzmán;goyo81@example.org;+34 987736230;Camino de Gracia Francisco 8 Apt. 58  Ciudad, 25970;2024-10-03
+87;Agustín;Egea;juanitaortiz@example.net;+34 948042454;C. Rufina Merino 590 Salamanca, 45380;2025-02-04
+88;Gema;Pons;ximenaquerol@example.com;+34886 77 42 02;Paseo Clementina Huertas 8 Zamora, 50186;2021-08-19
+89;Nazaret;Aroca;deliaposada@example.org;+34 847 31 97 80;Rambla Lucio Baños 76 Palencia, 20526;2021-06-15
+90;Rafaela;Falcó;marcelosantiago@example.net;+34 980734222;Avenida Edmundo Yuste 83 Teruel, 08080;2021-09-02
+91;León;Palomo;palacioshector@example.org;+34980 096 942;Vial de Socorro González 23 Puerta 0  Cuenca, 34750;2021-02-22
+92;Aroa;Almeida;palvarez@example.net;+34 946397519;Avenida de Estela Aguado 62 Puerta 4  Almería, 13565;2023-07-12
+93;Amparo;Baró;juan-antoniotirado@example.net;+34 807 67 05 45;Calle de Maxi Gargallo 42 Piso 5  Cuenca, 46504;2023-10-06
+94;Dolores;Ballesteros;americo23@example.org;+34 977143157;Paseo de Candelario Luna 7 Puerta 4  Burgos, 26913;2021-08-19
+95;Magdalena;Arana;padillaevelia@example.com;+34920 56 85 88;Plaza Ulises Seco 32 Piso 1  Huesca, 14971;2024-03-24
+96;Adelardo;Flor;usanabria@example.net;+34885 454 891;Cuesta de Nacio Pellicer 54 Sevilla, 40734;2022-07-30
+97;Elodia;Azcona;avilaeli@example.net;+34927 95 05 86;Alameda de José Diego 98 Santa Cruz de Tenerife, 14417;2023-01-04
+98;José Ángel;Suarez;maria-luisatirado@example.net;+34827005939;Plaza Mirta Luz 802 Málaga, 07623;2021-09-20
+99;Rubén;Hernando;juliana77@example.net;+34883 890 491;Ronda de Germán Sans 5 Apt. 43  Badajoz, 07115;2021-02-14
+100;Amada;Belda;opedrosa@example.net;+34 944 702 229;C. de Emiliano Saura 26 Puerta 8  Álava, 22483;2023-06-04
